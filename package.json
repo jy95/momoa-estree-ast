@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "ESTree-compatible JSON AST parser",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "jest"
   },
