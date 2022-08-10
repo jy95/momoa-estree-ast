@@ -6,11 +6,11 @@
                 "loc":{
                     "end":{
                         "column":8,
-                        "lines":2
+                        "line":2
                     },
                     "start":{
                         "column":7,
-                        "lines":2
+                        "line":2
                     }
                 },
                 "raw":"1",
@@ -21,11 +21,11 @@
                 "loc":{
                     "end":{
                         "column":21,
-                        "lines":3
+                        "line":3
                     },
                     "start":{
                         "column":15,
-                        "lines":3
+                        "line":3
                     }
                 },
                 "raw":"\"yolo\"",
@@ -36,11 +36,11 @@
                 "loc":{
                     "end":{
                         "column":62,
-                        "lines":6
+                        "line":6
                     },
                     "start":{
                         "column":28,
-                        "lines":4
+                        "line":4
                     }
                 },
                 "properties":[
@@ -53,11 +53,11 @@
                         "loc":{
                             "end":{
                             "column":55,
-                            "lines":5
+                            "line":5
                             },
                             "start":{
                             "column":38,
-                            "lines":5
+                            "line":5
                             }
                         },
                         "type":"Property",
@@ -67,11 +67,11 @@
                                 "loc": {
                                     "end": {
                                         "column": 50,
-                                        "lines": 5
+                                        "line": 5
                                     },
                                     "start": {
                                         "column": 49,
-                                        "lines": 5
+                                        "line": 5
                                     }
                                 },
                                 "raw":"1",
@@ -82,11 +82,11 @@
                                 "loc": {
                                     "end": {
                                         "column": 52,
-                                        "lines": 5
+                                        "line": 5
                                     },
                                     "start": {
                                         "column": 51,
-                                        "lines": 5
+                                        "line": 5
                                     }
                                 },
                                 "raw":"2",
@@ -97,11 +97,11 @@
                                 "loc": {
                                     "end": {
                                         "column": 54,
-                                        "lines": 5
+                                        "line": 5
                                     },
                                     "start": {
                                         "column": 53,
-                                        "lines": 5
+                                        "line": 5
                                     }
                                 },
                                 "raw":"3",
@@ -112,11 +112,11 @@
                             "loc":{
                             "end":{
                                 "column":55,
-                                "lines":5
+                                "line":5
                             },
                             "start":{
                                 "column":48,
-                                "lines":5
+                                "line":5
                             }
                             },
                             "type":"ArrayExpression"
@@ -129,11 +129,11 @@
             "loc":{
                 "end":{
                 "column":65,
-                "lines":7
+                "line":7
                 },
                 "start":{
                 "column":0,
-                "lines":1
+                "line":1
                 }
             },
             "type":"ArrayExpression"

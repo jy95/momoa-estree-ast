@@ -30,11 +30,11 @@ const visit = (node) => {
         const { start, end } = node.loc
         newNode.loc = {
             start : {
-                lines: start.line,
+                line: start.line,
                 column: start.offset
             },
             end : {
-                lines: end.line,
+                line: end.line,
                 column: end.offset
             }
         }
