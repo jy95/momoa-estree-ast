@@ -1,6 +1,6 @@
 {
   "name": "momoa-estree-ast",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESTree-compatible JSON AST parser",
   "main": "index.js",
   "files": [
