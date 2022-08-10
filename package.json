@@ -1,0 +1,23 @@
+{
+  "name": "momoa-estree-ast",
+  "version": "1.0.0",
+  "description": "ESTree-compatible JSON AST parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jy95",
+  "license": "MIT",
+  "dependencies": {
+    "@humanwhocodes/momoa": "^2.0.4"
+  },
+  "keywords": [
+    "ast",
+    "json",
+    "estree",
+    "jscodeshift"
+  ],
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

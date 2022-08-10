@@ -1,0 +1,155 @@
+    {
+    "body":[
+        {
+            "elements":[
+                {
+                "loc":{
+                    "end":{
+                        "column":8,
+                        "lines":2
+                    },
+                    "start":{
+                        "column":7,
+                        "lines":2
+                    }
+                },
+                "raw":"1",
+                "type":"Literal",
+                "value":1
+                },
+                {
+                "loc":{
+                    "end":{
+                        "column":21,
+                        "lines":3
+                    },
+                    "start":{
+                        "column":15,
+                        "lines":3
+                    }
+                },
+                "raw":"\"yolo\"",
+                "type":"Literal",
+                "value":"yolo"
+                },
+                {
+                "loc":{
+                    "end":{
+                        "column":62,
+                        "lines":6
+                    },
+                    "start":{
+                        "column":28,
+                        "lines":4
+                    }
+                },
+                "properties":[
+                    {
+                        "key":{
+                            "name":"nested",
+                            "type":"Identifier"
+                        },
+                        "kind":"init",
+                        "loc":{
+                            "end":{
+                            "column":55,
+                            "lines":5
+                            },
+                            "start":{
+                            "column":38,
+                            "lines":5
+                            }
+                        },
+                        "type":"Property",
+                        "value":{
+                            "elements":[
+                            {
+                                "loc": {
+                                    "end": {
+                                        "column": 50,
+                                        "lines": 5
+                                    },
+                                    "start": {
+                                        "column": 49,
+                                        "lines": 5
+                                    }
+                                },
+                                "raw":"1",
+                                "type":"Literal",
+                                "value":1
+                            },
+                            {
+                                "loc": {
+                                    "end": {
+                                        "column": 52,
+                                        "lines": 5
+                                    },
+                                    "start": {
+                                        "column": 51,
+                                        "lines": 5
+                                    }
+                                },
+                                "raw":"2",
+                                "type":"Literal",
+                                "value":2
+                            },
+                            {
+                                "loc": {
+                                    "end": {
+                                        "column": 54,
+                                        "lines": 5
+                                    },
+                                    "start": {
+                                        "column": 53,
+                                        "lines": 5
+                                    }
+                                },
+                                "raw":"3",
+                                "type":"Literal",
+                                "value":3
+                            }
+                            ],
+                            "loc":{
+                            "end":{
+                                "column":55,
+                                "lines":5
+                            },
+                            "start":{
+                                "column":48,
+                                "lines":5
+                            }
+                            },
+                            "type":"ArrayExpression"
+                        }
+                    }
+                ],
+                "type":"ObjectExpression"
+                }
+            ],
+            "loc":{
+                "end":{
+                "column":65,
+                "lines":7
+                },
+                "start":{
+                "column":0,
+                "lines":1
+                }
+            },
+            "type":"ArrayExpression"
+        }
+    ],
+    "loc":{
+        "end":{
+            "column":2,
+            "line":7,
+            "offset":65
+        },
+        "start":{
+            "column":1,
+            "line":1,
+            "offset":0
+        }
+    },
+    "type":"Program"
+}
